@@ -1,1 +1,1 @@
-	 ![](./Sleep-cat.gif)
+	 ![](./Sleeping-cat.gif)
